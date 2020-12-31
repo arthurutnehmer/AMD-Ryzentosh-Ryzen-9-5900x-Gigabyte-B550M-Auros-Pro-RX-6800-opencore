@@ -1,6 +1,6 @@
 [![macOS version](https://img.shields.io/badge/macOS-10.13.6%20(17G14042)-informational.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.4-informational.svg)](https://github.com/acidanthera/OpenCorePkg) 
 
-# AMD-Ryzentosh Ryzen 7 3700x Gigabyte B550M Auros Pro RX 5500XT
+# AMD-Ryzentosh Ryzen 9 5900x Gigabyte B550M Auros Pro Nvidia 1060Ti
 
 OpenCore 0.6.3 configuration  
 
@@ -9,13 +9,13 @@ OpenCore 0.6.3 configuration
 
 | Type                 | Name                              |
 |----------------------|-----------------------------------|
-| CPU                  | AMD Ryzen 7 3700x                 |
+| CPU                  | AMD Ryzen 9 5900x                 |
 | MB                   | Gigabyte B550M Auros Pro.         |
 | Audio                | Realtek                           |
-| GPU                  | Sapphire Nitro RX 5500 XT         |
-| RAM                  | 32G 3200Mhz DDR4 (8G * 4)         |
+| GPU                  | NVIDIA GeForce GTX 1060 6GB       |
+| RAM                  | 16G 3933Mhz DDR4 (8G * 2)         |
 | Ethernet             | Realtek Gigabit Gaming Network    |
-| Disk                 | Samsung 860 EVO 500 GB            |
+| Disk                 | Sabrent Rocket 4.0 1TB            |
 
 
 
