@@ -1,0 +1,1 @@
+# AMD-Ryzentosh-Ryzen-9-5900x-Gigabyte-B550M-Auros-Pro-1060TI-opencore
