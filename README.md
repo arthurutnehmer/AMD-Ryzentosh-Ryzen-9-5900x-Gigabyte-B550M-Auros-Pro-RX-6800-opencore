@@ -19,8 +19,7 @@ OpenCore 0.6.4 configuration for Amd zen 3 and Nvidia.
 
 
 
-![ScreenShot](https://i.imgur.com/g2ltthw.png)
-![ScreenShot](https://i.imgur.com/X05yVe8.png)
+![ScreenShot](https://lh3.googleusercontent.com/pw/ACtC-3eCy9R-Frhun0Yo7ZnQCmdnm8sQMFJRsh8XAJbVnzkjl4kbMDxX1PKm3r7GnJ-2b1JQGJV8Hs8-h35OqoOkyD8_8Fm_mlFZOwXW9WRjFqj9Rq9XrrcBiP8E8j9rh9rV2N4eAJUbBNzMlC3Orc40s8PG=w1324-h746-no)
 
 ## ACPI
 - [SSDT] SSDT-CPUR.aml
