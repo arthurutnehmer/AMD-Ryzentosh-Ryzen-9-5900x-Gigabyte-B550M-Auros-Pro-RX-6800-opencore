@@ -2,7 +2,7 @@
 
 # AMD-Ryzentosh Ryzen 9 5900x Gigabyte B550M Auros Pro Nvidia 1060Ti
 
-OpenCore 0.6.4 configuration for Amd zen 3 and Nvidia. You must add your own serial number and uuid!!   
+OpenCore 0.6.4 configuration for Amd zen 3 and Nvidia. You must add your own serial number and uuid for imessage to work.   
 
 
 ## Hardware
