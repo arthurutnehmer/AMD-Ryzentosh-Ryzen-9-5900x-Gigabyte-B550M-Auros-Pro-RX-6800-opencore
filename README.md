@@ -24,7 +24,6 @@ OpenCore 0.6.4 configuration for Amd zen 3 and Nvidia.
 ## ACPI
 - [SSDT] SSDT-CPUR.aml
 - [SSDT] SSDT-EC-USBX-DESKTOP.aml
-- [SSDT] SSDT-EC0.aml
 
 ## Patches & Kexts
  - [[Patch] AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla)
