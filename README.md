@@ -1,4 +1,4 @@
-[![macOS version](https://img.shields.io/badge/macOS-10.13.6%20(20B50)-informational.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.4-informational.svg)](https://github.com/acidanthera/OpenCorePkg) 
+[![macOS version](https://img.shields.io/badge/macOS-10.13.6%20(17G14042)-informational.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.4-informational.svg)](https://github.com/acidanthera/OpenCorePkg) 
 
 # AMD-Ryzentosh Ryzen 7 3700x Gigabyte B550M Auros Pro RX 5500XT
 
