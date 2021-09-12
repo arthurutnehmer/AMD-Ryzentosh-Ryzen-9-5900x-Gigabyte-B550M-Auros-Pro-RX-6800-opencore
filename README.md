@@ -19,7 +19,7 @@ OpenCore 0.7.2 configuration for Amd zen 3 and Rx 6800. You must add your own se
 
 
 
-![ScreenShot](https://lh3.googleusercontent.com/pw/ACtC-3eCy9R-Frhun0Yo7ZnQCmdnm8sQMFJRsh8XAJbVnzkjl4kbMDxX1PKm3r7GnJ-2b1JQGJV8Hs8-h35OqoOkyD8_8Fm_mlFZOwXW9WRjFqj9Rq9XrrcBiP8E8j9rh9rV2N4eAJUbBNzMlC3Orc40s8PG=w1324-h746-no)
+![ScreenShot](https://drive.google.com/file/d/1vBpl4dmm988U0CJyb49S-0bD8hymcyAC/view?usp=sharing)
 
 ## ACPI
 - [SSDT] SSDT-CPUR.aml
