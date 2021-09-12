@@ -19,7 +19,7 @@ OpenCore 0.7.2 configuration for Amd zen 3 and Rx 6800. You must add your own se
 
 
 
-![ScreenShot]<a href="https://drive.google.com/uc?export=view&id=1vBpl4dmm988U0CJyb49S-0bD8hymcyAC"><img src="https://drive.google.com/uc?export=view&id=1vBpl4dmm988U0CJyb49S-0bD8hymcyAC" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+![ScreenShot]<a href="https://drive.google.com/uc?export=view&id=1vBpl4dmm988U0CJyb49S-0bD8hymcyAC"><img src="https://drive.google.com/uc?export=view&id=1vBpl4dmm988U0CJyb49S-0bD8hymcyAC" style="width: 1000px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 
 ## ACPI
