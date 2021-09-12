@@ -2,7 +2,7 @@
 
 # AMD-Ryzentosh Ryzen 9 5900x Gigabyte B550M Auros Pro RX 6800
 
-OpenCore 0.6.4 configuration for Amd zen 3 and Nvidia. You must add your own serial number and uuid for imessage to work. To fix kernel panics when entering sleep mode disable wake for ethernet. When installing, disable CSM in bios as well as XMP.
+OpenCore 0.7.2 configuration for Amd zen 3 and Rx 6800. You must add your own serial number, MB serial, and uuid for imessage to work. To fix kernel panics when entering sleep mode disable wake for ethernet. When installing, disable CSM in bios as well as XMP.
 
 
 ## Hardware
