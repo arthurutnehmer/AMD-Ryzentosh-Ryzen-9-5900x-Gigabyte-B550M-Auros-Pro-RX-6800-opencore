@@ -1,4 +1,4 @@
-[![macOS version](https://img.shields.io/badge/macOS-10.13.6%20(17G14042)-informational.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.4-informational.svg)](https://github.com/acidanthera/OpenCorePkg) 
+[![macOS version](https://img.shields.io/badge/macOS-10.13.6%20(17G14042)-informational.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.2-informational.svg)](https://github.com/acidanthera/OpenCorePkg) 
 
 # AMD-Ryzentosh Ryzen 9 5900x Gigabyte B550M Auros Pro Nvidia 1060Ti
 
