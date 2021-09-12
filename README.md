@@ -12,10 +12,10 @@ OpenCore 0.6.4 configuration for Amd zen 3 and Nvidia. You must add your own ser
 | CPU                  | AMD Ryzen 9 5900x                 |
 | MB                   | Gigabyte B550M Auros Pro.         |
 | Audio                | Realtek                           |
-| GPU                  | NVIDIA GeForce GTX 1060 6GB       |
-| RAM                  | 16G 3933Mhz DDR4 (8G * 2)         |
+| GPU                  | Red Dragon Radeon AMD RX 6800     |
+| RAM                  | 32G 3600Mhz DDR4 (16G * 2)        |
 | Ethernet             | Realtek Gigabit Gaming Network    |
-| Disk                 | Sabrent Rocket 4.0 1TB            |
+| Disk                 | Samsung 970 Pro 1TB               |
 
 
 
